@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Storyteller TTS",
+  "description": "A text-to-speech application using Gemini 2.5 Flash TTS to narrate stories with high-quality voices.",
+  "requestFramePermissions": []
+}
